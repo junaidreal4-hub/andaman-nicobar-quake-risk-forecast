@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/eqf/__init__.py
+src/eqf/config.py
+src/eqf/make_dataset.py
+src/eqf.egg-info/PKG-INFO
+src/eqf.egg-info/SOURCES.txt
+src/eqf.egg-info/dependency_links.txt
+src/eqf.egg-info/requires.txt
+src/eqf.egg-info/top_level.txt
